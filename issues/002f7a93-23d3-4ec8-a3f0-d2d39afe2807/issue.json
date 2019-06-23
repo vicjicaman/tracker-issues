@@ -1,0 +1,9 @@
+{
+  "issueid": "002f7a93-23d3-4ec8-a3f0-d2d39afe2807",
+  "subject": "Improve merge strategy",
+  "description": "Right now the merge conflicts are resolved by using the remote data, only text data could be in conflict anytime.\nThis will be improved in two steps\n1- Merge and commit the content of the text and resolve it manually.\n2- Present a UI to merge the data and then commit\n\nSince only text of the issues, comments and descriptions could be in conflict, this UI could be a list of the conflict text to be resolved one by one",
+  "author": "Victor Jimenez",
+  "created": 1561281772,
+  "updated": 1561281772,
+  "status": "active"
+}

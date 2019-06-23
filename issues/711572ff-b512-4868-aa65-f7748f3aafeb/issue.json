@@ -1,7 +1,7 @@
 {
   "issueid": "711572ff-b512-4868-aa65-f7748f3aafeb",
   "subject": "Add loading feedback to the empty list",
-  "description": "If a list is empty there is no way to tell that that the list is waiting for a query to be refetched",
+  "description": "If a list is empty there is no way to tell that that the list is waiting for a query to be refetched.\nDon't change/block the existing item",
   "author": "Victor Jimenez",
   "created": 1561217057,
   "updated": 1561217057,

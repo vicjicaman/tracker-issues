@@ -1,0 +1,9 @@
+{
+  "issueid": "dd5532e0-47f9-4b30-8dc9-2098b4bee8ff",
+  "subject": "Add index and real search functionality",
+  "description": "The current search is limited to the current issues listed, a different service dedicated to index and search the issues repository",
+  "author": "Victor Jimenez",
+  "created": 1561280394,
+  "updated": 1561280394,
+  "status": "active"
+}

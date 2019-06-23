@@ -1,0 +1,9 @@
+{
+  "issueid": "33d1ea20-72ac-4d73-a266-58d5c1f0837f",
+  "subject": "Missing data on modal text",
+  "description": "For some of the modal, there is an issue with the data when an event arrives.\nThis is a known issue that is solved just for some forms, must be solved for all.",
+  "author": "Victor Jimenez",
+  "created": 1561282056,
+  "updated": 1561282056,
+  "status": "active"
+}

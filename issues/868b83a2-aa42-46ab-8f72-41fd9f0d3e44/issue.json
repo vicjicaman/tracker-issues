@@ -1,0 +1,9 @@
+{
+  "issueid": "868b83a2-aa42-46ab-8f72-41fd9f0d3e44",
+  "subject": "Check the events alive connection",
+  "description": "Looks like the events connection is closed after some time",
+  "author": "Victor Jimenez",
+  "created": 1561391026,
+  "updated": 1561391026,
+  "status": "active"
+}

@@ -1,0 +1,9 @@
+{
+  "issueid": "82b790ca-ea18-4d4c-866b-a89824cee8b4",
+  "subject": "Add archive functionality",
+  "description": "Archive functionality is delete the archive issues, commit and push, there should be a separate index service to search and access archive issues.",
+  "author": "Victor Jimenez",
+  "created": 1561391981,
+  "updated": 1561391981,
+  "status": "active"
+}

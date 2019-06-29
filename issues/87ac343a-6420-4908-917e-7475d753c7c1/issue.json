@@ -1,0 +1,9 @@
+{
+  "issueid": "87ac343a-6420-4908-917e-7475d753c7c1",
+  "subject": "Create exporter",
+  "description": "Create a exporter example by calling just the GraphQL API",
+  "author": "Victor Jimenez",
+  "created": 1561842721,
+  "updated": 1561842721,
+  "status": "active"
+}

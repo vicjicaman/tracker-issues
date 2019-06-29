@@ -1,0 +1,9 @@
+{
+  "issueid": "e37d2c91-6fb4-472f-8c48-ff34f248a9be",
+  "subject": "Add test repositories",
+  "description": "E2E test repositories for graph and UI services",
+  "author": "Victor Jimenez",
+  "created": 1561839838,
+  "updated": 1561839838,
+  "status": "active"
+}

@@ -1,0 +1,9 @@
+{
+  "issueid": "1ccaf108-5a44-4394-b776-146d9dc665d4",
+  "subject": "Edit comment functionality",
+  "description": "Comments can't be edited on the UI, only by the graph",
+  "author": "Victor Jimenez",
+  "created": 1561841229,
+  "updated": 1561841229,
+  "status": "active"
+}
